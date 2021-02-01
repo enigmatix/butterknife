@@ -1,4 +1,4 @@
-package butterknife;
+package com.jakewharton.butterknife;
 
 import android.app.Activity;
 import android.app.Dialog;
